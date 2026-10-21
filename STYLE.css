@@ -3,7 +3,7 @@
 }
 
 body{
-background-color: #F1F5F9;
+background-color: black;
 font-family: Arial, sans-serif;
 color: #black; 
 margin: 0;
@@ -14,7 +14,7 @@ padding: 0;
 	width: 80%;
 	margin: 30px auto;
 	padding: 30px;
-	background-color: #black;
+	background-color: white;
 }
 h1{
 	color: black;
@@ -72,7 +72,7 @@ ol {
 }
 
 .tabel-mata-kuliah th {
-    background-color: green;
+    background-color: yellow;
     color: black;
     padding: 10px;
     border: 1px solid #000000;
@@ -98,14 +98,14 @@ a {
 }
 
 a:hover {
-	color: green;
+	color: yellow;
 	text-decoration: underline;
 }
 
 /*FORM*/
 
 form {
-	background-color: green;
+	background-color: yellow;
 }
 /*KELOMPOK INPUT*/
 .form-group {
@@ -136,8 +136,8 @@ textarea {
 
 /*BUTTON*/
 button {
-	background-color: green;
-	color: white;
+	background-color: yellow;
+	color: black;
 	padding: 10px 20px;
 	border: none;
 	border-radius: 6px;
@@ -146,14 +146,14 @@ button {
 	transition: 0.3s;
 }
 button:hover {
-	background-color: green;
+	background-color: yellow;
 	color: green;
 }
 
 /*FOOTER*/
 .footer {
 	text-align: center;
-	color: green;
+	color: yellow;
 	margin-top: 30px;
 }
 .grid-informasi {
@@ -165,14 +165,14 @@ button:hover {
 }
 
 .card {
-	background-color: green;
+	background-color: yellow;
 	padding: 20px;
 	border: 1px solid #000000;
 	border-top: 2px solid #000000;
 	border-radius: 8px;
 }
 .card:hover{
-	border-color: green;
+	border-color: yellow;
 	transition: 0.3s;
 }
 /*====================================================*/
